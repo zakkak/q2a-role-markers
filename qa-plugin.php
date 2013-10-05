@@ -2,8 +2,8 @@
 
 /*
         Plugin Name: Role Markers
-        Plugin URI: https://github.com/NoahY/q2a-roles
-        Plugin Update Check URI: https://github.com/NoahY/q2a-roles/master/qa-plugin.php
+        Plugin URI: https://github.com/NoahY/q2a-role-markers
+        Plugin Update Check URI: https://github.com/NoahY/q2a-role-markers/raw/master/qa-plugin.php
         Plugin Description: Adds role markers to avatars and usernames
         Plugin Version: 1.2
         Plugin Date: 2013-10-04

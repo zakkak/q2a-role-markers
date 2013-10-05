@@ -1,10 +1,10 @@
 ===================================
-Question2Answer Role Markers v 0.1
+Question2Answer Role Markers v 1.2
 ===================================
 -----------
 Description
 -----------
-This is a plugin for **Question2Answer** that adds markers for special roles. 
+This is a plugin for **Question2Answer** that adds markers for special roles.
 
 --------
 Features
@@ -23,7 +23,7 @@ Installation
 #. Install Question2Answer_
 #. Get the source code for this plugin from github_, either using git_, or downloading directly:
 
-   - To download using git, install git and then type 
+   - To download using git, install git and then type
      ``git clone git://github.com/NoahY/q2a-role-markers.git role-markers``
      at the command prompt (on Linux, Windows is a bit different)
    - To download directly, go to the `project page`_ and click **Download**
@@ -53,4 +53,3 @@ About q2A
 Question2Answer is a free and open source platform for Q&A sites. For more information, visit:
 
 http://www.question2answer.org/
-
